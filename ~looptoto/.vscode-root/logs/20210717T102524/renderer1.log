@@ -1,0 +1,5 @@
+[2021-07-17 14:22:16.966] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-vscode.js-debug' took 100% of 5341.696ms, saved PROFILE here: 'file:///tmp/exthost-7612aa.cpuprofile' [{"id":"ms-vscode.js-debug","total":5322290,"percentage":100}]
+[2021-07-17 14:22:19.500] [renderer1] [error] Server returned 422: Error: Server returned 422
+    at Object.w [as asText] (vscode-file://vscode-app/snap/code/70/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:634:163774)
+    at r (vscode-file://vscode-app/snap/code/70/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1663:34297)
+    at async a._processCpuProfile (vscode-file://vscode-app/snap/code/70/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1722:33179)

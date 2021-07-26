@@ -1,0 +1,11 @@
+[2021-07-17 10:10:08.125] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-07-17 10:10:12.596] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-17 10:10:32.004] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-17 10:10:32.012] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-17 10:10:41.982] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-17 10:25:17.510] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[2021-07-17 10:25:21.641] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hans /var/www/html/php/php_mysql/~looptoto/.vscode-root/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-zh-hans-1.58.8
+[2021-07-17 10:25:22.476] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.2dfe8bbf-6174-4efc-80fc-8b3b9e3b3121: ms-ceintl.vscode-language-pack-zh-hans
+[2021-07-17 10:25:22.490] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.58.8
+[2021-07-17 10:25:22.497] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hans
+[2021-07-17 10:25:22.514] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hans

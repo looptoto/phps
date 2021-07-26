@@ -1,0 +1,12 @@
+[2021-07-17 10:25:35.555] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-07-17 10:25:39.644] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-17 10:25:59.642] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-17 10:25:59.646] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-17 10:25:59.653] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1626487790472.
+[2021-07-17 10:26:09.642] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-17 11:32:44.350] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2021-07-17 11:32:52.401] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug /var/www/html/php/php_mysql/~looptoto/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-debug-1.16.1
+[2021-07-17 11:33:08.978] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.319d8bec-8955-4b23-8e85-a3a84876d02d: felixfbecker.php-debug
+[2021-07-17 11:33:09.044] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-debug-1.16.1
+[2021-07-17 11:33:09.063] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2021-07-17 11:33:09.191] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
